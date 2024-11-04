@@ -37,9 +37,9 @@ git clone https://github.com/Seipex-Finance/sei-example-dapp
 cd sei-example-dapp
 ```
 
-2. Install dependencies
+2. Install dependencies with force to support React 19
 ```bash
-npm install
+npm install --force
 ```
 
 3. Create a `.env` file in the `contracts/` directory with your configuration:
