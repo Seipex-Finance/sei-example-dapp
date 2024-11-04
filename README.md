@@ -33,8 +33,8 @@ A simple example EVM dApp and framework demonstrating how to build a simple vaul
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Seipex-Finance/sei-dapp-example
-cd sei-dapp-example
+git clone https://github.com/Seipex-Finance/sei-example-dapp
+cd sei-example-dapp
 ```
 
 2. Install dependencies
